@@ -2,7 +2,7 @@
 
 This project is a robust and scalable template for building Node.js APIs using modern tools and best practices. It is designed to accelerate development by providing a pre-configured structure and essential features for common API use cases.
 
-If you find this template useful, consider [forking the repository](https://github.com/your-repo-url/fork) and customizing it to suit your project needs. Contributions are always welcome!
+If you find this template useful, consider forking the repository and customizing it to suit your project needs. Contributions are always welcome!
 
 ## Features
 
